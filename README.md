@@ -4,14 +4,12 @@
   <img alt="Van Arquilos. Software and Product." src="./assets/github-profile-light.svg" width="100%">
 </picture>
 
-BS Computer Science student at Our Lady of Fatima University in the Philippines. I build business systems, product software, developer tools, and practical technical workflows.
+BS Computer Science student at Our Lady of Fatima University in the Philippines, building business systems, product software, developer tools, and practical technical workflows.
 
-<p>
-  <a href="https://vanarquilos.dev">Portfolio</a>&nbsp;&nbsp;&nbsp;
-  <a href="https://vanarquilos.dev/work/">Work</a>&nbsp;&nbsp;&nbsp;
-  <a href="https://vanarquilos.dev/resume/">Resume</a>&nbsp;&nbsp;&nbsp;
-  <a href="https://vanarquilos.dev/contact/">Contact</a>
-</p>
+[Portfolio](https://vanarquilos.dev)  
+[Work](https://vanarquilos.dev/work/)  
+[Resume](https://vanarquilos.dev/resume/)  
+[Contact](https://vanarquilos.dev/contact/)
 
 ## Current
 
@@ -19,7 +17,7 @@ BS Computer Science student at Our Lady of Fatima University in the Philippines.
 
 **Co-Founder, Software & Product**
 
-Building a needs-driven business technology company around real operational problems. I work across product direction, software engineering, business systems, implementation, QA, and technical decision-making.
+Building business technology around real operational problems. My work spans product direction, software engineering, business systems, implementation, integration, QA, and technical decision-making.
 
 ### Admino
 
@@ -43,7 +41,7 @@ Windows desktop tooling for League of Legends skin and mod workflows, including 
 
 ### Portfolio
 
-Astro-based portfolio and case-study system covering responsive engineering, accessibility, production validation, secure Contact delivery, deployment hardening, SEO, and release QA.
+Astro-based portfolio and case-study system covering responsive engineering, accessibility, production validation, secure Contact delivery, deployment hardening, SEO, security, and release QA.
 
 [vanarquilos.dev](https://vanarquilos.dev)
 
@@ -63,13 +61,16 @@ Product engineering, business systems, QA, release engineering, documentation, d
 
 ## Working Principles
 
-- Build around the actual problem and workflow.
-- Keep claims proportional to proof and document product boundaries clearly.
-- Use technology as a tool rather than making the stack the product.
-- Build systems that remain understandable, testable, and maintainable after shipping.
+Build around the actual problem and workflow.
+
+Keep claims proportional to proof.
+
+Build systems that remain understandable, testable, and maintainable after shipping.
 
 ## Background
 
-BS Computer Science student at Our Lady of Fatima University, expected 2028. My background spans software and product development, customer repair work, computer and mobile diagnostics, troubleshooting, QA, and developer tooling.
+BS Computer Science student at Our Lady of Fatima University, expected 2028.
+
+My background spans software and product development, computer and mobile repair, technical diagnostics, troubleshooting, QA, and developer tooling.
 
 I also competed with OLFU QC Phoenix in collegiate League of Legends championship events.

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Van Arquilos. Software and Product.</title>
+  <desc id="desc">Editorial profile header for Van Arquilos focused on business systems, product software, developer tools, and technical workflows.</desc>
+  <rect width="1200" height="300" fill="#f4f4f1"/>
+  <rect x="20.5" y="20.5" width="1159" height="259" fill="none" stroke="#191919" stroke-width="1"/>
+  <line x1="64" y1="74.5" x2="1136" y2="74.5" stroke="#191919" stroke-width="1"/>
+  <line x1="800.5" y1="75" x2="800.5" y2="235" stroke="#b7b7b2" stroke-width="1"/>
+
+  <g fill="#191919" font-family="Arial, Helvetica, sans-serif">
+    <text x="64" y="57" font-size="16" font-weight="700" letter-spacing="4">NAV</text>
+    <text x="64" y="155" font-size="58" font-weight="700" letter-spacing="-2">VAN ARQUILOS</text>
+    <text x="66" y="194" font-size="18" font-weight="600" letter-spacing="2.8">SOFTWARE &amp; PRODUCT</text>
+
+    <text x="844" y="111" font-size="14" font-weight="700" letter-spacing="1.8">BUSINESS SYSTEMS</text>
+    <text x="844" y="143" font-size="14" font-weight="700" letter-spacing="1.8">PRODUCT SOFTWARE</text>
+    <text x="844" y="175" font-size="14" font-weight="700" letter-spacing="1.8">DEVELOPER TOOLS</text>
+    <text x="844" y="207" font-size="14" font-weight="700" letter-spacing="1.8">TECHNICAL WORKFLOWS</text>
+
+    <text x="64" y="252" font-size="13" font-weight="600" letter-spacing="1.2">PHILIPPINES</text>
+    <text x="1016" y="252" font-size="13" font-weight="600" text-anchor="end" letter-spacing="1.2">VANARQUILOS.DEV</text>
+  </g>
+</svg>

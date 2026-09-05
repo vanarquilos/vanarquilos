@@ -1,22 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
   <title id="title">Van Arquilos. Software and Product.</title>
   <desc id="desc">Editorial profile header for Van Arquilos focused on business systems, product software, developer tools, and technical workflows.</desc>
-  <rect width="1200" height="300" fill="#111111"/>
-  <rect x="20.5" y="20.5" width="1159" height="259" fill="none" stroke="#f2f2ee" stroke-width="1"/>
-  <line x1="64" y1="74.5" x2="1136" y2="74.5" stroke="#f2f2ee" stroke-width="1"/>
-  <line x1="800.5" y1="75" x2="800.5" y2="235" stroke="#4b4b48" stroke-width="1"/>
 
-  <g fill="#f2f2ee" font-family="Arial, Helvetica, sans-serif">
-    <text x="64" y="57" font-size="16" font-weight="700" letter-spacing="4">NAV</text>
-    <text x="64" y="155" font-size="58" font-weight="700" letter-spacing="-2">VAN ARQUILOS</text>
-    <text x="66" y="194" font-size="18" font-weight="600" letter-spacing="2.8">SOFTWARE &amp; PRODUCT</text>
+  <rect width="1200" height="260" fill="#111111"/>
+  <rect x="16.5" y="16.5" width="1167" height="227" fill="none" stroke="#f1f1ed" stroke-width="1"/>
+  <line x1="52" y1="64.5" x2="1148" y2="64.5" stroke="#f1f1ed" stroke-width="1"/>
+  <line x1="808.5" y1="65" x2="808.5" y2="210" stroke="#4b4b48" stroke-width="1"/>
 
-    <text x="844" y="111" font-size="14" font-weight="700" letter-spacing="1.8">BUSINESS SYSTEMS</text>
-    <text x="844" y="143" font-size="14" font-weight="700" letter-spacing="1.8">PRODUCT SOFTWARE</text>
-    <text x="844" y="175" font-size="14" font-weight="700" letter-spacing="1.8">DEVELOPER TOOLS</text>
-    <text x="844" y="207" font-size="14" font-weight="700" letter-spacing="1.8">TECHNICAL WORKFLOWS</text>
+  <g fill="#f1f1ed" font-family="Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <text x="52" y="49" font-size="14" font-weight="700" letter-spacing="3.6">NAV</text>
 
-    <text x="64" y="252" font-size="13" font-weight="600" letter-spacing="1.2">PHILIPPINES</text>
-    <text x="1016" y="252" font-size="13" font-weight="600" text-anchor="end" letter-spacing="1.2">VANARQUILOS.DEV</text>
+    <text x="52" y="137" font-size="56" font-weight="700" letter-spacing="-2.2">VAN ARQUILOS</text>
+    <text x="54" y="174" font-size="17" font-weight="600" letter-spacing="2.4">SOFTWARE &amp; PRODUCT</text>
+
+    <g font-size="13" font-weight="650" letter-spacing="1.6">
+      <text x="850" y="99">BUSINESS SYSTEMS</text>
+      <text x="850" y="128">PRODUCT SOFTWARE</text>
+      <text x="850" y="157">DEVELOPER TOOLS</text>
+      <text x="850" y="186">TECHNICAL WORKFLOWS</text>
+    </g>
+
+    <text x="52" y="224" font-size="11" font-weight="600" letter-spacing="1.4">PHILIPPINES</text>
+    <text x="1148" y="224" font-size="11" font-weight="600" text-anchor="end" letter-spacing="1.4">VANARQUILOS.DEV</text>
   </g>
 </svg>

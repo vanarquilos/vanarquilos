@@ -35,9 +35,9 @@ Building focused tooling for mobile file workflows, reusable product infrastruct
 
 ### Personal Skin Manager
 
-Windows desktop tooling for League of Legends skin and mod workflows, including packaged releases, update infrastructure, diagnostics, maintenance tooling, provenance, and release QA.
+Maintaining an open-source Windows utility for League of Legends skin and mod workflows, including packaged releases, signed update infrastructure, diagnostics, provenance, release QA, and public documentation.
 
-[Public release repository](https://github.com/vanarquilos/PersonalSkinManager-Updates)
+[Website](https://psm.vanarquilos.dev) · [Public repository](https://github.com/vanarquilos/PersonalSkinManager-Updates)
 
 ### Portfolio
 
